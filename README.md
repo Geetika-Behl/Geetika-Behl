@@ -1,4 +1,4 @@
-## Hey there👋 Geetika this side 👩‍💻
+## Geetika Behl
 
 # About Me
 
