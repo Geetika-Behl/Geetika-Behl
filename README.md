@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Geetika-Behl&theme=radical&cache_seconds=1" />
+  <img src = "https://streak-stats.demolab.com?user=Geetika-Behl" />
 </p>
 
 
