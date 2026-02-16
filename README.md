@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geetika-Behl&theme=radical%22%20alt=%22GitHub%20Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geetika-Behl&theme=radical%22%20alt=%22GitHub%20Streak&cache_seconds=1" />
 </p>
 
 
